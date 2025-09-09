@@ -1,0 +1,2 @@
+Hi, this project is to detect types of bone fractures in the body. I trained it using YOLO model and it achieved 88% accuracy. If needed, you can use the model trained by me and the database is also available along with the codes. The model name is best.pt
+![1_jpg rf ad0984cd8194a2b2580ab2b9198b41da](https://github.com/user-attachments/assets/d8b519da-26b5-44a0-8ec8-7e752f576bd8)![14_mri_0_96_jpeg rf 831ef92a9b974b422dd87361afd6e118](https://github.com/user-attachments/assets/2cf756bc-888a-446a-8540-171fd50f7aa3)
